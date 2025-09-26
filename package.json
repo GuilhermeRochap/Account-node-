@@ -1,0 +1,25 @@
+{
+  "name": "contatransfer",
+  "version": "1.0.0",
+  "description": "Conta Bancaria em Node",
+  "homepage": "https://github.com/GuilhermeRochap/Account-node-#readme",
+  "bugs": {
+    "url": "https://github.com/GuilhermeRochap/Account-node-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeRochap/Account-node-.git"
+  },
+  "license": "ISC",
+  "author": "Guilherme Rocha Pessanha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "conta-node": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2"
+  }
+}
